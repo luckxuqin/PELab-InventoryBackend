@@ -1,0 +1,15 @@
+﻿Name,Vcf,Domain,Host_Num
+lab02-m01-cl01,VCF Lab 02,lab02-m01,4
+lab02-wld01-cl01,VCF Lab 02,lab02-w01,8
+lab02-wld02-cl01,VCF Lab 02,lab02-w02,4
+lab02-wld02-cl02,VCF Lab 02,lab02-w02,4
+lab02-wld02-cl03,VCF Lab 02,lab02-w02,4
+lab02-wld03-cl01,VCF Lab 02,lab02-w03,4
+lab02-wld04-cl01,VCF Lab 02,lab02-w04,4
+mgmt-c1,Dell EMC VCF Lab,MGMT,4
+wld1-c1,Dell EMC VCF Lab,WLD1,4
+wld2-c1,Dell EMC VCF Lab,WLD2,4
+wld3-c1,Dell EMC VCF Lab,WLD3,4
+mgmt-c1,ISV Lab,mgmt,4
+wkld1-c1,ISV Lab,wkld1,4
+wkld2-c1,ISV Lab,wkld2,4

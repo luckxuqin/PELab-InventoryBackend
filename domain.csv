@@ -1,0 +1,13 @@
+﻿Name,Vcf,Cluster_Num,Type
+lab02-m01,VCF Lab 02,1,Management
+lab02-w01,VCF Lab 02,1,Workload
+lab02-w02,VCF Lab 02,3,Workload
+lab02-w03,VCF Lab 02,1,Workload
+lab02-w04,VCF Lab 02,1,Workload
+MGMT,Dell EMC VCF Lab,1,Management
+WLD1,Dell EMC VCF Lab,1,Workload
+WLD2,Dell EMC VCF Lab,1,Workload
+WLD3,Dell EMC VCF Lab,1,Workload
+mgmt,ISV Lab,1,Management
+wkld1,ISV Lab,1,Workload
+wkld2,ISV Lab,1,Workload
